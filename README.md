@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm **Gábor Bozzay**, a passionate developer. Recently, I have been focusing on mobile application development, expanding my skills in **Flutter**, **Dart** and **Kotlin**. </h1>
-<h3 align="center">Frontend & Flutter Developer</h3>
+<h3 align="center">Flutter & Mobile & Frontend Developer</h3>
 <h3 align="center">As a Frontend Developer, I have more than 10 years of experience in navigation software development and have effectively applied my testing knowledge from previous roles to my daily work. Over the past 2 years, I have focused on mobile application development, dedicating mostly my free time to expanding my knowledge and building practical skills in **Flutter** and **Dart**.
 </h3>
 
@@ -17,6 +17,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
