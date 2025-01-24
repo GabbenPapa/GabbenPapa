@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gabben</h1>
-<h3 align="center">Frontend developer</h3>
+<h1 align="center">👋 Hi there! I'm **Gábor Bozzay**, a passionate developer. Recently, I have been focusing on mobile application development, expanding my skills in **Flutter**, **Dart** and **Kotlin**. </h1>
+<h3 align="center">Frontend & Flutter Developer</h3>
+<h3 align="center">As a Frontend Developer, I have more than 10 years of experience in navigation software development and have effectively applied my testing knowledge from previous roles to my daily work. Over the past 2 years, I have focused on mobile application development, dedicating mostly my free time to expanding my knowledge and building practical skills in **Flutter** and **Dart**.
+</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabbenPapa&label=Profile%20views&color=0e75b6&style=flat" alt="GabbenPapa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GabbenPapa&theme=" alt="GabbenPapa" /></a> </p>
